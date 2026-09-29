@@ -1,0 +1,24 @@
+{
+  "name": "lab-calculadora-grupo6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculador.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeOrtizGamboa/LAB-CALCULADORA-GRUPO6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FelipeOrtizGamboa/LAB-CALCULADORA-GRUPO6/issues"
+  },
+  "homepage": "https://github.com/FelipeOrtizGamboa/LAB-CALCULADORA-GRUPO6#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
